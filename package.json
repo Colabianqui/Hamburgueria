@@ -6,6 +6,7 @@
     "node":"14.x"
   },
   "scripts": {
+    "start":"node index.js",
     "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
   },
   "keywords": [],
